@@ -1,5 +1,3 @@
-# HTML CSS Learning Guide
-
 <div align="center">
   <h1>HTML CSS Quick Guide</h1>
 </div>
