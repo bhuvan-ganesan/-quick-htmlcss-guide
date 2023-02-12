@@ -2,10 +2,9 @@
 
 <div align="center">
   <h1>HTML CSS Quick Guide</h1>
-<sub>Author:
-<a href="https://www.linkedin.com/in/bhuvanaganesan-l-2209047a" target="_blank">Bhuvan Ganesan</a><br>
-</sub>
 </div>
+
+<hr>
 
 | No |                                                                       Topics                                                                        |
 | ----- | :------------------------------------------------------------------------------: |
@@ -64,5 +63,8 @@
 
 
 
+<sub>Author:
+<a href="https://www.linkedin.com/in/bhuvanaganesan-l-2209047a" target="_blank">Bhuvan Ganesan</a><br>
+</sub>
 
 👨‍💻 HAPPY CODING GUYS👨‍💻
