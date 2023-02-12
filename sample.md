@@ -18,6 +18,7 @@ Copyright @ Bhuvan Ganesan
 css
 
 https://marksheet.io/
+https://web.dev/learn/css/selectors/
 
 
 
