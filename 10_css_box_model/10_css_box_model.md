@@ -285,12 +285,12 @@ blockquote{ background: yellow; border: 1px solid blue; padding: 20px;}
 If padding adds space inside an element (between its border and its content), margins adds space outside between an element and other elements.
 
 ```html
-<p>Hey, you know what sucks?</p>
-<p>vaccuums</p>
-<p>Hey, you know what sucks in a metaphorical sense?</p>
-<p>black holes</p>
-<p>Hey, you know what just isn't cool?</p>
-<p>lava?</p>
+<p>space inside an element</p>
+<p>This question arises when neither a </p>
+<p>element and other elements</p>
+<p>none is present</p>
+<p>Hey, can blend into each other</p>
+<p>present and the borders?</p>
 ```
 ```css
 p{ margin: 40px;}
@@ -346,5 +346,10 @@ left         right
 
 ```
 
+### How to remember the shorthand order
 
-### Useful links
+
+Instead of focusing on the values you’ve entered, think about the values you haven't.
+
+- if you enter 2 values (top/right), you omit setting bottom and left. Because bottom is the vertical counterpart of top, it will use top’s value. And because left is the horizontal counterpart of right, it will use right’s value.
+- if you enter 3 values (top/right/bottom), you omit setting left. As right’s counterpart, it will use its value.
