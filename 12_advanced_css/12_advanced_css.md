@@ -527,6 +527,12 @@ body{ font-size: 14px;}
 }
 ```
 
+[Study link 1](https://www.sitepoint.com/css-techniques-for-retina-displays/)
+
+[Study link 2](https://dpi.lv/)
+
+[Study link 2](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries#Logical_operators)
+
 
 
 ### Useful links
